@@ -21,7 +21,7 @@ Computer Science & Engineering graduate from **North South University** with exp
 
 ### 📄 CARNet: Cycle-Conditioned Core Aggregation and Redistribution for Multivariate Time Series Forecasting
 
-**ECML PKDD 2026 — Research Track**
+**ECML PKDD 2026: Research Track**
 
 Contributed to benchmark data preparation, experimental evaluation, comparative MSE/MAE tables, architecture visualization, and research documentation.
 
@@ -29,7 +29,7 @@ Contributed to benchmark data preparation, experimental evaluation, comparative 
 
 ### 📄 How Effective Is Mamba-Augmented Transformer for Stock Market Price Forecasting?
 
-**FinTech, MDPI — 2026**
+**FinTech, MDPI: 2026**
 
 Contributed to benchmark experiments, evaluation organization, architecture visualization, presentation materials, and research documentation.
 
